@@ -1,0 +1,7 @@
+{
+  "name": "LinguistAI - CEFR English Test Generator",
+  "description": "A comprehensive English proficiency testing application powered by Gemini. Generate full CEFR A1-C1 tests, practice with a live AI tutor, and get instant feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
